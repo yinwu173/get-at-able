@@ -2,7 +2,7 @@
 
 ## About the Project
 
-* This project aims to refractor a starter code so that when viewed, the code is accessible to its users. to better decipher and understand codes, semantic elements are incorporated and utilized.
+* This project aims to refractor a starter code so that when viewed, the code is accessible to its users. For its viewer to better decipher and understand codes, coders often incorporate and utilize semantic elements in their code.
 
 ## Acceptance Criteria
 
