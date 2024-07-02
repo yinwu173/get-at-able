@@ -16,7 +16,7 @@ Getting Started
 - Once the starter code has been cloned, we will need to refactor the code to meet the acceptance criteria.
 
 Screenshot of Application
-
+- ![screenshot](https://github.com/yinwu173/get-at-able/assets/172465262/ab588d93-f753-4925-825f-8754b6f8b3f7)
 
 Link to Deployed Application 
 - https://yinwu173.github.io/get-at-able/
