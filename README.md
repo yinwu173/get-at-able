@@ -42,10 +42,12 @@
 
 ## Acknowledgement and Resources
 
-* [Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Semantic Elementsfor Beginners](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 * [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 * [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
 
-* [Semantic vs Non-semantic](https://www.freecodecamp.org/news/semantic-html5-elements/)
+* [Organizing CSS Stylesheet](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
+
+* [Intro to Semantic vs Non-semantic Elements](https://www.freecodecamp.org/news/semantic-html5-elements/)
