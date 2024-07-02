@@ -26,11 +26,11 @@
 
 ### Hints
 
-* Instead of <div class="header"> we can substitute and use the semantic element of <header>.
+* Instead of div class="header" we can substitute and use the semantic element of header.
 
 * When we see repeating CSS styles in the stylesheet, we can class the repeating styles under a single class with the same name. 
 
-* We can add an <aside> element for information outside of the section content.
+* We can add an aside element for information outside of the section content.
 
 ## Screenshot of Application
 
