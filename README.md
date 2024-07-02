@@ -51,3 +51,5 @@
 * [Organizing CSS Stylesheet](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
 
 * [Intro to Semantic vs Non-semantic Elements](https://www.freecodecamp.org/news/semantic-html5-elements/)
+
+* I have also received help from a Tutor regarding cloning the Challenge #1 Starter Code into my own repository. The following command was used: git remote set-url origin "ssh link to your repo here".
